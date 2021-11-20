@@ -1,0 +1,11 @@
+identifier: k5wb70kao7jdr7af
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: my-blog
+homeFolder: D:\Abhishek\joulesprojects\my-blog
+distFolder: dist/my-blog
+outDir: D:\Abhishek\joulesprojects\my-blog\dist\static
+handle404: ''
+allowErrorCollect: true
